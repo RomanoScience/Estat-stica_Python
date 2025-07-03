@@ -46,8 +46,10 @@ O projeto simula vendas em 6 lojas de diferentes regiões do Brasil, armazena es
 
 ## 📷 Exemplo de Resultado
 
-![Gráfico das Curvas Normais](56367505-8e8c-4e9f-8690-225155248dbd.png)
+https://github.com/RomanoScience/Estat-stica_Python/blob/main/CURVA_NORMAL.png
 
+### Meu Contato
+   https://www.linkedin.com/in/ronaldoromanojr/
 ---
 
 ## 📁 Como Executar
